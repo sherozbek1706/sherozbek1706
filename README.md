@@ -1,10 +1,6 @@
 [![MasterHead](https://i.pinimg.com/1200x/89/b4/b1/89b4b109f9e20fab096102b0e3b5c10e.jpg)](https://sherozbek-dev.netlify.app/)
 <h1 align="center">Hi 👋, I'm She'rozbek</h1>
 <h3 align="center">A hardworking full stack developer from Uzbekistan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sherozbek1706&label=Profile%20views&color=0e75b6&style=flat" alt="sherozbek1706" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sherozbek1706" alt="sherozbek1706" /></a> </p>
 
 - 🌱 I’m currently learning **TypeScript**
 
@@ -32,5 +28,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sherozbek"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sherozbek" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sherozbek1706&show_icons=true&locale=en&layout=compact" alt="sherozbek1706" /></p>
