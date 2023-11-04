@@ -9,11 +9,11 @@
       </tr>
       <tr>
         <td>04.11.2023</td>
-        <td>I have prepared a new page for the "Driver Plus" site, a page for users and for placing orders. As for the backend, I wrote an api for users to show themselves.</td>
+        <td>I have prepared a new page for the "Driver Plus" site, a page for users and for placing orders. As for the backend, I wrote an API for users to show themselves.</td>
       </tr>
       <tr>
         <td>03.11.2023</td>
-        <td>I changed Google maps and Yendex maps. I learned to find the distance by marking two roads from Yandex maps.</td>
+        <td>I changed Google Maps and Yandex Maps. I learned to find the distance by marking two roads from Yandex Maps.</td>
       </tr>
     </table>
   </body>
