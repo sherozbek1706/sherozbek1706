@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <body>
-    <h2>How Sherozbek is growing in programming. Daily tasks!</h2>
+    <h2 style="text-align: center;">How Sherozbek is growing in programming. Daily tasks!</h2>
     <table width="100%">
       <tr>
         <th>Date</th>
