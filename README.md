@@ -9,7 +9,7 @@
       </tr>
       <tr>
         <td>04.11.2023</td>
-        <td>Driver sayti uchun client sahifasini navbar va profile pagelarini yasadim.</td>
+        <td>Driver sayti uchun client sahifasini navbar va profile pagelarini yasadim.Driver sayti uchun client sahifasini navbar va profile pagelarini yasadim.</td>
       </tr>
     </table>
   </body>
