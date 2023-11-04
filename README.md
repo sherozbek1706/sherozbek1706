@@ -19,6 +19,12 @@
         <td>02.11.2023</td>
         <td>Users receive a code via Telegram and enter the code on the site. The site checks this code to see if the code is out of date or if the code exists. Then, if the code is correct, it will take you to the register or login page. Depending on the user's phone number.</td>
       </tr>
+      <tr>
+        <td>01.11.2023</td>
+        <td>I made a media change to the "Driver Plus" - web program, now computers can also access this site.
+I made a Telegram bot, using Nodejs and express, the function of this bot is to give you a secret code, and you will use this code in the future by entering it into the site.
+I also put the bot on the server. Link for the bot <a href="https://t.me/haydovchilarga_guvohnomabot">haydovchibot</a></td>
+      </tr>
     </table>
   </body>
 </html>
