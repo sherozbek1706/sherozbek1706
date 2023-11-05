@@ -8,6 +8,10 @@
         <th>What did I do today?</th>
       </tr>
       <tr>
+        <td>05.11.2023</td>
+        <td>Today, I have created sidebar and header in client-user front and I deleted profile page jsx. Why ? It's don't like for me ?</td>
+      </tr>
+      <tr>
         <td>04.11.2023</td>
         <td>I have prepared a new page for the "Driver Plus" site, a page for users and for placing orders. As for the backend, I wrote an API for users to show themselves.</td>
       </tr>
