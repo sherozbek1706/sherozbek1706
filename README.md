@@ -12,6 +12,10 @@
         <td>Today, I have created sidebar and header in client-user front and I deleted profile page jsx. Why ? It's don't like for me ?</td>
       </tr>
       <tr>
+        <td></td>
+        <td>Finally, I found my mistake. It's build action in react. I have changed server host to localhost. It's not correct. Then I change host and again build may project. Then I login my server and I pull last changed. It's work 😎😃</td>
+      </tr>
+      <tr>
         <td>04.11.2023</td>
         <td>I have prepared a new page for the "Driver Plus" site, a page for users and for placing orders. As for the backend, I wrote an API for users to show themselves.</td>
       </tr>
