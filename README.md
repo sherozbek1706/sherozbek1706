@@ -8,6 +8,14 @@
         <th>What did I do today?</th>
       </tr>
       <tr>
+        <td>07.11.2023</td>
+        <td>I have changed driver servers and pull all chnages server. Then, I saw some problems on server. Then I fixed it. 🤟</td>
+      </tr>
+      <tr>
+        <td>06.11.2023</td>
+        <td>We have change our operation system windows to linux ubuntu 20.04 and I created simple build page in my Driver-user project!</td>
+      </tr>
+      <tr>
         <td>05.11.2023</td>
         <td>Today, I have created sidebar and header in client-user front and I deleted profile page jsx. Why ? It's don't like for me ?</td>
       </tr>
