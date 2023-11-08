@@ -8,6 +8,15 @@
         <th>What did I do today?</th>
       </tr>
       <tr>
+        <td>08.11.2023</td>
+        <td>Today, I changed  from "ugly" build page to "super" build page. </td>
+      </tr>
+      </tr>
+      <tr>
+        <td></td>
+        <td>I wrote profile page, against. But it's didn't like to me. Because I couldn't found beauty profile page for dashboard. Okay. ;)</td>
+      </tr>
+      <tr>
         <td>07.11.2023</td>
         <td>I have changed driver servers and pull all chnages server. Then, I saw some problems on server. Then I fixed it. 🤟</td>
       </tr>
