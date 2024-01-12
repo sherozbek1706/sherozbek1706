@@ -8,6 +8,10 @@
         <th>What did I do today?</th>
       </tr>
       <tr>
+        <td>12.01.2024</td>
+        <td>Modal and Image slider made. But this is where Files are made.</td>
+      </tr>
+      <tr>
         <td>08.11.2023</td>
         <td>Today, I changed  from "ugly" build page to "super" build page. </td>
       </tr>
