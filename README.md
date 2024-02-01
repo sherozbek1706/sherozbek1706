@@ -21,8 +21,8 @@
         <th>What did I do today?</th>
       </tr>
       <tr>
-        <th>16.01.2023</th>
-        <th>Today I adjusted the image width and height of the slider in the modal.</th>
+        <td>16.01.2023</td>
+        <td>Today I adjusted the image width and height of the slider in the modal.</td>
       </tr>
       <tr>
         <td>12.01.2024</td>
