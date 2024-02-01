@@ -5,7 +5,7 @@
     <table>
       <tr>
         <td>
-          <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=sherozbek1706&theme=dark&background=000000" alt="webDev's Github stats" />
+          <img width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=sherozbek1706&theme=dark&background=000000" alt="webDev's Github stats" />
         </td>
       </tr>
       <tr>
